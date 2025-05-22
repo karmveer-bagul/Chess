@@ -1,5 +1,3 @@
-  For a README file for your simple Python chess program with a GUI, you’ll want to include key sections that explain what the project is, how to set it up, how to use it, and any dependencies it requires. Here's a basic outline for what you could include:
-
 ---
 
 # Chess Game in Python
@@ -8,9 +6,7 @@ A simple chess game built using Python, featuring a GUI for both player-vs-playe
 
 ## Features
 
-* **Two modes of play**:
-
-  * Player vs Player (1v1) on the same computer
+* **Modes of play**:
   * Player vs Computer (1vAI) mode with AI opponent
 * **Graphical User Interface (GUI)** for easy interaction
 * **Move validation** to ensure legal moves
